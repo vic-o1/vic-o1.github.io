@@ -22,8 +22,8 @@ ul{
 }
 
 body > header {
-    background-color: #548687;
-    color: #bdebd6;
+    background-color: #164a63;
+    color: #ffffff;
     display: flex;
     height:11vh;
     align-items: center;
@@ -77,7 +77,7 @@ body > main article {
 }
 
 body > footer {
-    background-color: #548687;
+    background-color: #164a63;
     color: white;
     display: flex;
 
